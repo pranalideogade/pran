@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          welcome pran
+          welcome pran updated
         </a>
       </header>
     </div>
