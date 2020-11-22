@@ -1,23 +1,6 @@
 {
-  "files": {
-    "main.css": "/pran/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pran/static/js/main.ba7dcf3d.chunk.js",
-    "main.js.map": "/pran/static/js/main.ba7dcf3d.chunk.js.map",
-    "runtime-main.js": "/pran/static/js/runtime-main.b34a58be.js",
-    "runtime-main.js.map": "/pran/static/js/runtime-main.b34a58be.js.map",
-    "static/js/2.3473a54b.chunk.js": "/pran/static/js/2.3473a54b.chunk.js",
-    "static/js/2.3473a54b.chunk.js.map": "/pran/static/js/2.3473a54b.chunk.js.map",
-    "static/js/3.0e034bf3.chunk.js": "/pran/static/js/3.0e034bf3.chunk.js",
-    "static/js/3.0e034bf3.chunk.js.map": "/pran/static/js/3.0e034bf3.chunk.js.map",
-    "index.html": "/pran/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pran/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3473a54b.chunk.js.LICENSE.txt": "/pran/static/js/2.3473a54b.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/pran/static/media/logo.103b5fa1.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.b34a58be.js",
-    "static/js/2.3473a54b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ba7dcf3d.chunk.js"
-  ]
+  "main.css": "static/css/main.51901569.css",
+  "main.css.map": "static/css/main.51901569.css.map",
+  "main.js": "static/js/main.cc6a74f6.js",
+  "main.js.map": "static/js/main.cc6a74f6.js.map"
 }
